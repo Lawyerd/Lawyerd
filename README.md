@@ -5,8 +5,11 @@ I'm a junior developer who enjoys developing as a hobby. I graduated from Konkuk
 
 ## 기술 스택 / Tech Stack
 ![Node.js Badge](https://img.shields.io/badge/Backend-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
 ![Python Badge](https://img.shields.io/badge/Data%20Analysis-Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ![React.js Badge](https://img.shields.io/badge/Frontend-React.js-61DAFB?style=flat&logo=react&logoColor=white)
+
 ![Svelte.js Badge](https://img.shields.io/badge/Frontend-Svelte.js-FF3E00?style=flat&logo=svelte&logoColor=white)
 
 ## 관심사 / Interests
